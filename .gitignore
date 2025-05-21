@@ -1,0 +1,9 @@
+## .gitignore
+
+```plaintext
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.json
