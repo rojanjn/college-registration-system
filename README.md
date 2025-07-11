@@ -45,6 +45,7 @@ A C# console application for managing students, courses, and registrations in a 
 ## How to Run
 
 ```bash
+git clone https://github.com/rojanjn/college-registration-system.git
 cd college-registration-system/CollegeRegistrationSystem
 dotnet run
 
